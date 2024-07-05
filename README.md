@@ -14,6 +14,7 @@ The project will follow the same approach as used in all ML project. We'll go th
 
 ## Data Collection
 For this project we'll need bunch of legitimate and phishing url's,each categorised by (0) and (1). We'll use this dataset.
+Dataset Link- https://www.kaggle.com/datasets/siddharthkumar25/malicious-and-benign-urls
 
 It contains 450k domain url's out of which 345k are legitimate and 104k are malicious. The Imbalanced dataset is oversampled using the SOMTE technique,which increases the total number of samples to around 600k.
 
